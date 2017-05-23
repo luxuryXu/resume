@@ -1,0 +1,25 @@
+{
+  "name": "xuhaipeng",
+  "homepage": "https://github.com/luxuryXu/resume",
+  "authors": [
+    "xuhaipeng <xuhaipeng@youbanban.com>"
+  ],
+  "description": "resume",
+  "main": "",
+  "keywords": [
+    "fullpage"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "fullpage.js": "fullpage#^2.9.4",
+    "bootstrap": "^3.3.7"
+  }
+}
