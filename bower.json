@@ -20,6 +20,7 @@
   ],
   "dependencies": {
     "fullpage.js": "fullpage#^2.9.4",
-    "bootstrap": "^3.3.7"
+    "bootstrap": "^3.3.7",
+    "jquery_lazyload": "jquery.lazyload#^1.9.7"
   }
 }
