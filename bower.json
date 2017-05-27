@@ -21,6 +21,9 @@
   "dependencies": {
     "fullpage.js": "fullpage#^2.9.4",
     "bootstrap": "^3.3.7",
-    "jquery_lazyload": "jquery.lazyload#^1.9.7"
+    "jquery_lazyload": "jquery.lazyload#^1.9.7",
+    "handlebars": "^4.0.10",
+    "zoom.js": "^0.0.1",
+    "responsive-carousel": "https://github.com/filamentgroup/responsive-carousel.git#^1.0.0"
   }
 }
